@@ -4,7 +4,7 @@
     version: noetic-devel
 - git:
     local-name: panda_moveit_config
-    uri: https://github.com/ros-planning/panda_moveit_config
+    uri: https://github.com/learningLogisticsLab/panda_moveit_config
     version: melodic-devel
 - git:
     local-name: franka_ros_interface
