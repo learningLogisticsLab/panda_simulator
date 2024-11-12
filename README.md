@@ -81,7 +81,7 @@ Steps 2 and 3 can be automated by running `./build_ws.sh` from `<catkin_ws>/src/
 
 ```bash
     source /opt/ros/$ROS_DISTRO/setup.bash
-    catkin build # if catkin not found, install catkin tools (apt install python-catkin-tools)
+    catkin build # if catkin not found, install catkin tools (apt install python3-catkin-tools)
     source devel/setup.bash
 ```
 
