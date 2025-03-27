@@ -87,7 +87,7 @@ install(
 )
 
 install(
-  DIRECTORY config launch worlds share
+  DIRECTORY config launch worlds #share removed as redundant. already at install/share/panda gazebo
   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
 )
 
